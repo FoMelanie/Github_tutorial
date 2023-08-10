@@ -6,7 +6,7 @@ This tutorial is here to help OpenClassrooms students from the Pole Data discord
 
 I will use Jupyter on Anaconda Navigator:
 
-![image](https://github.com/FoMelanie/Github_tutorial/assets_images/image_1.png)
+![image](assets_images/image_1.png)
 
 
 I also have an account on github and created a new empty repository, with just an empty ReadMe file.
